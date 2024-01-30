@@ -20,7 +20,11 @@ Breve descrição do projeto e principais tecnologias utilizadas.
 
 ## 👨‍🎓 Educação
 - Bacharelado em Engenharia de Software, UNOPAR (cursando)
-
+- 
+## 📖 Artigos publicados
+- [![Um pouco sobre Testes]]([https://dio.me/articles/um-pouco-sobre-testes))
+- [![Conceitos Fundamentais de IA]](https://dio.me/articles/conceitos-fundamentais-de-ia)
+  
 ## Redes sociais
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devrafaelfullstack/) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santos-lima/)
 
