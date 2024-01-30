@@ -20,7 +20,7 @@ Breve descrição do projeto e principais tecnologias utilizadas.
 
 ## 👨‍🎓 Educação
 - Bacharelado em Engenharia de Software, UNOPAR (cursando)
-- 
+  
 ## 📖 Artigos publicados
 - [Um pouco sobre Testes](https://dio.me/articles/um-pouco-sobre-testes)
 - [Conceitos Fundamentais de IA](https://dio.me/articles/conceitos-fundamentais-de-ia)
